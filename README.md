@@ -10,7 +10,7 @@ It can now use the PC's inbuilt Bluetooth or USB Bluetooth Adapter to enable the
 * The Program will only work if your N-Gage/Symbian device can connect to your PC over Bluetooth normally and can transfer files without error. Some modern inbuilt Bluetooth adapters cannot connect to these older Symbian devices, so please try to pair and send a file before using.
 
 # Usage:  
-* Download the GemepadBT-Server program from the [Releases](https://github.com/BeardoGuy/GamepadBT/releases/)  
+* Download the GemepadBT-Server program from the [Releases](https://github.com/BeardoGuy/GamepadBT-Server/releases/)  
 * Select the COM port in the list according to the port your PC uses to connect to your N-Gage/Symbian device (Under Windows 10 and 11 you can find that by going to Settings -> Bluetooth Settings-> More Bluetooth settings -> COM Ports Tab and then check which COM Port is labeled as 'Incoming' for your N-Gage/Symbian Device.)  
 * Select the BAUD Rate (9600 is the most compatible and 115200 is the fastest)  
 * Click on 'Connect" button and wait until the 'Status:' changes to 'Server Started' (If any error pops up, try another Port)  
